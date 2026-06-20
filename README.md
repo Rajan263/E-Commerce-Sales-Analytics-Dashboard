@@ -10,7 +10,8 @@ The objective of this project is to transform raw e-commerce transaction data in
 
 ## 🚀 Dashboard Preview
 
-![Dashboard Screenshot](C:\Users\rajan\OneDrive\画像\Screenshots)
+<img width="1920" height="1020" alt="Screenshot 2026-06-20 210824" src="https://github.com/user-attachments/assets/b9eb8009-99ec-4527-aa42-c8bd15c4a59b" />
+
 ---
 
 ## 🎯 Objectives
