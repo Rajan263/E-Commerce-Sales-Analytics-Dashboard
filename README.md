@@ -174,7 +174,7 @@ E-Commerce-Sales-Analytics-Dashboard/
 
 ### Main Dashboard
 
-![Dashboard](Dashboard.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ---
 
