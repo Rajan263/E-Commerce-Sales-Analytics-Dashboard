@@ -174,8 +174,7 @@ E-Commerce-Sales-Analytics-Dashboard/
 
 ### Main Dashboard
 
-![Dashboard](<img width="1920" height="1020" alt="Screenshot 2026-06-20 210824" src="https://github.com/user-attachments/assets/edd3a0c0-9855-442b-a210-4100c238b59f" />
-)
+![Dashboard](Dashboard.png)
 
 ---
 
