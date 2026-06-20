@@ -8,11 +8,12 @@ The objective of this project is to transform raw e-commerce transaction data in
 
 ---
 
-## 🚀 Dashboard Preview
+
 
 ## 🚀 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](E-Commerce-Sales-Analytics-Dashboard
+/Screenshot 2026-06-20 210824.png)
 
 ---
 
